@@ -15,4 +15,4 @@ target/
 # Auto-gen
 .cargo-ok
 
-artifacts
+#artifacts
